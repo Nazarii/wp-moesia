@@ -1,6 +1,6 @@
 I.Theme
 
-Moesia, Copyright 2014 
+ Moesia, Copyright 2014 
 Moesia is licensed under GNU General Public License V2 or later. You can find a copy of it in the license.txt file.
 
 II. Resources
